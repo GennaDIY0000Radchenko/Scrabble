@@ -2,6 +2,10 @@
 # Collaborators : Obolonskiy Denis (student of Sumy SU) - help in testing
 # Time spent    : 1.5 hours to make secondary functions and from 3 to 4 hours to make play-functions
 
+#I have no idea why this code is working correctly, but i know that it work really well
+#So, i'm not completly sure about the FOURTH task and all changes in functions that are necessary in connection with this task
+#P.S. In my solution the "get_frequency_dict" function is noy used. Maybe, it's for the best...
+
 import math
 import random
 from copy import deepcopy
